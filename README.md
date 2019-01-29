@@ -30,8 +30,8 @@ react-native run-android
 
 ```
 ### Screenshots
-![](https://github.com/tarikyayla/yt_downloader/blob/master/images/Screenshot_1548781651.png | 300x300)
-![](https://github.com/tarikyayla/yt_downloader/blob/master/images/Screenshot_1548781660.png | 300x300)
+![](https://github.com/tarikyayla/yt_downloader/blob/master/images/Screenshot_1548781651.png | width=250)
+![](https://github.com/tarikyayla/yt_downloader/blob/master/images/Screenshot_1548781660.png | width=250)
 
 
 ### Api Usage 
