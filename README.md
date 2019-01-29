@@ -1,7 +1,7 @@
 #  Youtube Video Downloader
 
 ### Installation 
-`$ git clone http://github.com/tarikyayla/yt_download`
+`$ git clone http://github.com/tarikyayla/yt_downloader`
 
 ###### Server-side 
 
