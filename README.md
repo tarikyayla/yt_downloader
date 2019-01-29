@@ -36,6 +36,9 @@ react-native run-android
 ### Api Usage 
 ###### Request
 `localhost:5000/?link=YOUTUBE_LINK`
+
+`Example : http://flaskyoutubedownloader.herokuapp.com/?link=https://www.youtube.com/watch?v=gdGLkQ1768M`
+
 ###### Response
 ```json
 {
